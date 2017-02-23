@@ -3,7 +3,11 @@
 namespace mvcdemo;
 
 /**
- * Singleton.
+ * Singleton. A singleton is a class of which there should only ever
+ * exist one instance. You can create a Singleton by extending this class.
+ * For general information about the Singleton pattern, see:
+ *
+ * https://en.wikipedia.org/wiki/Singleton_pattern
  */
 abstract class Singleton {
 
